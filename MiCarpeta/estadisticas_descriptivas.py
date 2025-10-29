@@ -29,4 +29,3 @@ print("\nMediana:\n", mediana)
 print("\nDesviación Estándar:\n", desviacion)
 
 
-#La variable Edad se centra en torno a los 30 años.  La media y la mediana son semejantes, así que no existen valores atípicos importantes.  La desviación estándar es pequeña 2, lo que señala que la mayor parte de las edades se encuentran cerca de la media.
